@@ -10,7 +10,7 @@ redirect_from:
 # Hello
 I'm Yuqiao Tang, a second-year graduate student at [Northeastern University](https://www.northeastern.edu/). My research is centered around single-cell RNA-seq, genomics, transcriptomics, machine learning, bioinformatics tool development, and computational breeding. Throughout my academic journey, I've had the privilege of being mentored by [Prof. Kun Lu](https://www.researchgate.net/profile/Kun-Lu-15) during my undergraduate studies at [Southwest University](https://eecs.pku.edu.cn/) in China (2019-2023).
 
-In the summer of 2024, I was fortunate to volunteer in [Prof. Vandana Gupta's lab](https://guptalab.bwh.harvard.edu/) at Brigham and Women's Hospital, where I contributed to cutting-edge research in bioinformatics. Currently, I am a teaching assistant for BINF 6310 - Introduction to Computational Methods in Bioinformatics, under the guidance of Prof. [Quan Wan](https://cos.northeastern.edu/people/quan-wan/) at Northeastern University.
+In the summer of 2024, I was volunteer in [Prof. Vandana Gupta's lab](https://guptalab.bwh.harvard.edu/) at Brigham and Women's Hospital, where I contributed to cutting-edge research in bioinformatics. Currently, I am a teaching assistant for BINF 6310 - Introduction to Computational Methods in Bioinformatics, under the guidance of Prof. [Quan Wan](https://cos.northeastern.edu/people/quan-wan/) at Northeastern University.
 
 For more details about my professional journey, please view my CV: [Yuqiao Tang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
