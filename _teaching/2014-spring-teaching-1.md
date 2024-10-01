@@ -1,8 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Northeastern University, College of Science"
 date: 2024-09-01
 location: "Boston, MA"
