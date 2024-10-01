@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuqiao Tang / Diving in Bioinformatics"
+title                    : "Yuqiao Tang"
 title_separator          : "-"
 name                     : &name "Yuqiao Tang"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "About me"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Diving in Bioinformatics"
+  location         : "Boston MA"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
