@@ -2,7 +2,7 @@
 title: "Quantitative trait locus mapping and transcriptome analysis reveal candidate genes for a stem bending mutant in rapeseed (Brassica napus)"
 collection: Article
 category: manuscript
-permalink:https://doi.org/10.1016/j.indcrop.2021.114456
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This study investigated the stem bending 1 (stb1) mutant in rapeseed, which exhibits abnormal stem development, pinpointing its critical changes during the transition from stem elongation to early flowering. Genetic and transcriptome analyses identified a single recessive locus on chromosome A01 and revealed significant downregulation in genes related to auxin transport, suggesting disruptions in hormonal pathways might be responsible for the observed phenotype. The study highlights BnSOS3-INTERACTING PROTEIN3 as a potential key player in these processes, setting the stage for further research into the molecular mechanisms governing stem development in rapeseed.'
 date: 2021-12-29
 venue: 'Industrial Crops and Products'
