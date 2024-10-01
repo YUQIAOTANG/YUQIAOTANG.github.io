@@ -44,9 +44,9 @@ Skills
   * Seurant
   * ggplot2
 * Wetlab Skills
-  *Gene Cloning
-  *Vector Construction
-  *Transformation
+  * Gene Cloning
+  * Vector Construction
+  * Transformation
 
 Publications
 ======
