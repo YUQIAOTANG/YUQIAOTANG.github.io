@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Bioinforamtics, Northestern University, US, 2023-2025
+* B.S. in Agricultural, Southwest University,CN, 2019-2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Research Assistant
+  * Brigham and Women's Hospital
+  * Duties includes:Genomic analysis in neuromuscular patients,mainly deal with VCF files
+  * Supervisor: professor. Vandana Gupta
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Research Assistant
+  * Southwest University
+  * Duties included: Analysis of Gene Families
+  * Supervisor: Professor Lu
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Assistant
+  * Southwest University
+  * Duties included: RNA-seq analysis
+  * Supervisor: Professor Lu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * R
+  * Python
+  * Bash
+  * Shell
+  * Git
+* Bioinformatics Tools
+  * HISAT2
+  * Seurant
+  * ggplot2
+* Wetlab Skills
+  *Gene Cloning
+  *Vector Construction
+  *Transformation
 
 Publications
 ======
@@ -47,11 +54,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
