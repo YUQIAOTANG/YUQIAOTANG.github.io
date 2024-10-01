@@ -14,5 +14,5 @@ In the summer of 2024, I was fortunate to volunteer in [Prof. Vandana Gupta's la
 
 For more details about my professional journey, please view my CV: [Yuqiao Tang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](tang.yuqi@northeastern.edu) / [GitHub](https://github.com/YUQIAOTANG]) / [Linkedin](https://www.linkedin.com/in/yuqiao-tang-a0b7b62a3/)
+[Email](tang.yuqi@northeastern.edu) / [GitHub](https://github.com/YUQIAOTANG) / [Linkedin](https://www.linkedin.com/in/yuqiao-tang-a0b7b62a3/)
 
