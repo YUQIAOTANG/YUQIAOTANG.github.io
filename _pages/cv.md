@@ -24,14 +24,14 @@ Research experience
 * Fall 2022: Research Assistant
   * Southwest University
   * Duties included: Analysis of Gene Families
-  * Supervisor: Professor Kun LU
+  * Supervisor: Professor Kun Lu
 
 * Summer 2021: Research Assistant
   * Southwest University
   * Duties included: RNA-seq analysis
-  * Supervisor: Professor Kun LU
+  * Supervisor: Professor Kun Lu
 
-Research experience
+Projects
 ======
 * Fall 2024: Brain CT Image Hemorrhage Segmentation
   * Northeastern University
@@ -41,7 +41,7 @@ Research experience
 * Fall 2023: [Update of qPrimerDB - qPCR Primer Database](https://qprimerdb.biodb.org/)
   * Northeastern University
   * Duties included: Expand the qPCR Primers and Optimize the Pipeline
-  * Supervisor: Professor Kun LU & Professor Andrej J. Savol
+  * Supervisor: Professor Kun Lu & Professor Andrej J. Savol
 
 Skills
 ======
