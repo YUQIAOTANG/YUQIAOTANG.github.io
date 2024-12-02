@@ -12,7 +12,7 @@ I'm Yuqiao Tang, a second-year graduate student at [Northeastern University](htt
 
 In the summer of 2024, I was volunteer in [Prof. Vandana Gupta's lab](https://guptalab.bwh.harvard.edu/) at Brigham and Women's Hospital, where I contributed to cutting-edge research in bioinformatics. Currently, I am a teaching assistant for BINF 6310 - Introduction to Computational Methods in Bioinformatics, under the guidance of Prof. [Quan Wan](https://cos.northeastern.edu/people/quan-wan/) at Northeastern University.
 
-For more details about my professional journey, please view my CV: [Yuqiao Tang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+For more details about my professional journey, please view my CV: [Yuqiao Tang's Curriculum Vitae](../assets/cv.pdf).
 
 [Email](tang.yuqi@northeastern.edu) / [GitHub](https://github.com/YUQIAOTANG) / [Linkedin](https://www.linkedin.com/in/yuqiao-tang-a0b7b62a3/)
 
