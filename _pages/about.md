@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 # Hello
-I'm Yuqiao Tang, a second-year graduate student at [Northeastern University](https://www.northeastern.edu/). My research is centered around single-cell RNA-seq, genomics, transcriptomics, machine learning, bioinformatics tool development, and computational breeding. Throughout my academic journey, I've had the privilege of being mentored by [Prof. Kun Lu](https://www.researchgate.net/profile/Kun-Lu-15) during my undergraduate studies at [Southwest University](https://eecs.pku.edu.cn/) in China (2019-2023).
+I'm Yuqiao Tang, a graduate student in [Interdiciplinary Graduate Program in Genetics and Genomics](https://genetics.tamu.edu/) at Texas A&M University. 
 
-In the summer of 2024, I was volunteer in [Prof. Vandana Gupta's lab](https://guptalab.bwh.harvard.edu/) at Brigham and Women's Hospital, where I contributed to cutting-edge research in bioinformatics. Currently, I am a teaching assistant for BINF 6310 - Introduction to Computational Methods in Bioinformatics, under the guidance of Prof. [Quan Wan](https://cos.northeastern.edu/people/quan-wan/) at Northeastern University.
+My research is centered around single-cell RNA-seq, genomics, transcriptomics, machine learning, bioinformatics tool development, and computational breeding. Throughout my academic journey, I've had the privilege of being mentored by [Prof. Kun Lu](https://www.researchgate.net/profile/Kun-Lu-15) during my undergraduate studies at [Southwest University](https://eecs.pku.edu.cn/) in China (2019-2023).
 
-Starting in January 2025, I will join [The Institute for Experiential AI Northeastern University](https://ai.northeastern.edu/) as a Bioinformatics and Machine Learning Co-Op, under the supervision of [Dr. Ayan Paul](https://ai.northeastern.edu/our-people/ayan-paul) and [Dr. Arzu Tugce Guler](https://ai.northeastern.edu/our-people/arzu-tugce-guler), where I will focus on building ETL pipelines for multi-omics data, developing Python and R tools for data analysis and post-processing, and creating machine learning models with explainability measures in XAI.
+Auguest 2025 I have awared Master degree of Science in Bioinformatics at  [Northeastern University](https://www.northeastern.edu/).
+
+During Januray to July 2025 I have joined [The Institute for Experiential AI Northeastern University](https://ai.northeastern.edu/) as a Bioinformatics and Machine Learning Co-Op, under the supervision of [Dr. Ayan Paul](https://ai.northeastern.edu/our-people/ayan-paul) and [Dr. Arzu Tugce Guler](https://ai.northeastern.edu/our-people/arzu-tugce-guler), where I will focus on building ETL pipelines for multi-omics data, developing Python and R tools for data analysis and post-processing, and creating machine learning models with explainability measures in XAI.
 
 For more details about my professional journey, please view my CV: [Yuqiao Tang's Curriculum Vitae](../assets/webfonts/cv.pdf).
 
