@@ -12,9 +12,9 @@ I'm Yuqiao Tang, a graduate student in the [Interdiciplinary Graduate Program in
 
 My research focuses on single-cell RNA-seq, genomics, transcriptomics, machine learning, bioinformatics tool development, and computational breeding. I completed my undergraduate studies at [Southwest University](https://eecs.pku.edu.cn/) in China (2019-2023), where I was mentored by [Prof. Kun Lu](https://www.researchgate.net/profile/Kun-Lu-15).
 
-In August 2025, I have be awarded a Master of Science degree in Bioinformatics from [Northeastern University](https://www.northeastern.edu/).
+In August 2025, I was awarded a Master of Science degree in Bioinformatics from [Northeastern University](https://www.northeastern.edu/).
 
-From January to July 2025, I have joined [The Institute for Experiential AI Northeastern University](https://ai.northeastern.edu/) as a Bioinformatics and Machine Learning Co-Op, under the supervision of [Dr. Ayan Paul](https://ai.northeastern.edu/our-people/ayan-paul) and [Dr. Arzu Tugce Guler](https://ai.northeastern.edu/our-people/arzu-tugce-guler), where I will focus on building ETL pipelines for multi-omics data, developing Python and R tools for data analysis and post-processing, and creating machine learning models with explainability measures in XAI.
+From January to July 2025, I served as a Bioinformatics and Machine Learning Co-Op at [The Institute for Experiential AI Northeastern University](https://ai.northeastern.edu/), under the supervision of [Dr. Ayan Paul](https://ai.northeastern.edu/our-people/ayan-paul) and [Dr. Arzu Tugce Guler](https://ai.northeastern.edu/our-people/arzu-tugce-guler). My work involved building ETL pipelines for multi-omics data, developing Python and R tools for data processing and analysis, and creating machine-learning models with interpretable XAI methods
 
 For more details about my professional journey, please view my CV: [Yuqiao Tang's Curriculum Vitae](../assets/webfonts/cv.pdf).
 
